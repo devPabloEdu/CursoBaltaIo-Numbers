@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\programação\\Numbers\\Numbers.csproj": {}
+    "C:\\Users\\Admin\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\programação\\Numbers\\Numbers.csproj": {
+    "C:\\Users\\Admin\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\programação\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\programação\\Numbers\\Numbers.csproj",
+        "projectPath": "C:\\Users\\Admin\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\programação\\Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
